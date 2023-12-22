@@ -1,8 +1,8 @@
-+++
-title = 'Meu primeiro voo solo'
-date = 2008-12-07T00:00:00-03:00
-type = "post"
-+++
+---
+title: 'Meu primeiro voo solo'
+date: 2008-12-07T00:00:00-03:00
+type: "post"
+---
 
 Domingo, 7 de dezembro de 2008, teve e sempre terá um significado sublime para mim: foi o dia em que decolei, voei e pousei exclusivamente através de meus próprios atos e decisões; o dia do meu vôo solo de planador.
 
