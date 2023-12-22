@@ -1,5 +1,5 @@
-module github.com/irpagnossin/irpagnossin-site
+module github.com/nunocoracao/blowfish
 
-go 1.21
+go 1.21.4
 
-require github.com/526avijitgupta/gokarna v0.0.0-20231121231121-041c4e28a790 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.48.0 // indirect
