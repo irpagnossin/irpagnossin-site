@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["post"]
 # robots = ""
 
 disableImageOptimization = false
@@ -50,7 +50,7 @@ disableTextInHeader = false
   showDate = true
   showViews = false
   showLikes = false
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
@@ -72,7 +72,7 @@ disableTextInHeader = false
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "skoob"]
 
 [list]
   showHero = false
