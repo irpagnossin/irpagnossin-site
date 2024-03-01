@@ -39,11 +39,6 @@
 #  pageRef = "posts"
 #  weight = 20
 
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "about"
-  weight = 10
-
 #[[subnavigation]]
 #  name = "My Awesome Category"
 #  pre = "github"
