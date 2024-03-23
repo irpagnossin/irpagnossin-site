@@ -145,7 +145,7 @@ Minha personalidade é categorizada como [INTJ](https://www.16personalities.com/
 - Bacharelado em Física (BSc), [IF/USP](https://portal.if.usp.br/ifusp/), 1997-2001.
 - Auxiliar técnico em Eletrônica, [Liceu](https://www.liceuescola.com.br/), 1992-1995.
 
-## Cursos
+## Formação complementar (cursos)
 - _Data warehouse concepts: from basic to advanced concepts_, ([Udemy](https://www.udemy.com), 7 horas, fev. 2024 ([certificado](https://ude.my/UC-c2cee0a8-5cc3-49d3-a150-a520bf140303)).
 - _BigQuery for Big data engineers_, [Udemy](https://www.udemy.com), 8 horas, jan. 2024 ([certificado](https://ude.my/UC-8afa5245-ca32-413e-ac1b-7dd5e6d9b9c4)).
 - _The World of Docker & Kubernetes_, [FIAP](https://www.fiap.com.br), 20 horas, dez. 2023.
@@ -172,3 +172,8 @@ Minha personalidade é categorizada como [INTJ](https://www.16personalities.com/
 - _Fundamentos de Astrofísica II: evolução estelar_, Planetário Municipal de São Paulo, 30 horas, jul. 1993.
 - _Tópicos de Astronomia: movimentos da Terra_, Planetário Municipal de São Paulo, 10 horas, abr. 1993.
 - _Reconhecimento do céu_, Planetário Municipal de São Paulo, 15 horas, nov. 1992.
+
+# Participação em eventos
+
+- _Jornada de Ciência de Dados_, LNCC, fev. 2024.
+- _Escola Supercomputador SDumont_, LNCC, jan. 2024.
