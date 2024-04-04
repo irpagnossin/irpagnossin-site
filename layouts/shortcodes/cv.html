@@ -1,0 +1,35 @@
+<h3>Formação acadêmica</h3>
+<ol>
+  {{ range sort .Site.Data.cv.titles "year_end" "desc" }}
+  <h4>{{ .course }}</h4>
+  <h5>{{ .institution }}/{{ .school }}, {{ .year_start }}-{{ .year_end }}</h5>
+  <p>{{ .text }}</p>
+  {{ end }}
+</ol>
+
+<h3>Formação complementar</h3>
+<ol>
+  {{ range sort .Site.Data.cv.courses "year" "desc" }}
+    <li>
+      <em>{{ .title }}</em>,
+      {{ .institution }}{{ if .via }} via {{ .via }}{{ end }}, 
+      {{ if .workload }}{{ .workload }} horas, {{ end }}{{ .year }}{{- "" -}}
+      {{ if .certificate }} (<a target="_blank" href="{{ .certificate }}">certificado</a>){{ end }}{{- "" -}}
+      {{ if .grade }} ({{ .grade }}){{ end }}.
+    </li>
+  {{ end }}
+</ol>
+
+<h3>Artigos completos publicados em periódicos</h3>
+<ol>
+  {{ range .Site.Data.cv.articles }}
+    <li>
+      {{ delimit .authors ", " }};
+      <em>{{ .title }}</em>;
+      {{ .journal }} <b>{{ .volume }}</b>{{- "" -}}
+      {{ if .pages }}, {{ .pages }}{{ end }}
+      ({{ .year }}){{- "" -}}
+      {{ if .doi }}, DOI {{ .doi }}{{ end }}.
+    </li>
+  {{ end }}
+</ol>

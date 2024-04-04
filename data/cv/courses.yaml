@@ -1,0 +1,229 @@
+- title: "MLflow in action: master the art of MLOps using MLflow tool"
+  institution: "Udemy"
+  workload: 9.5
+  year: 2024
+  month: 4
+  online: true
+  certificate: "https://storage.googleapis.com/irpagnossin-public/irpagnossin-site/certificates-of-conclusion/2024-04-udemy-mlflow.pdf"
+
+- title: "Inteligência Artificial - curso comemorativo dos 90 anos da Universidade de São Paulo"
+  institution: "Universidade de São Paulo"
+  workload: 7
+  year: 2024
+  month: 4
+  online: true
+
+- title: "Algoritmos e modelos de programação para big data"
+  institution: "Laboratório Nacional de Computação Científica (LNCC)"
+  event: "Programa de verão 2024: Jornada de Ciência de Dados"
+  workload: 6
+  year: 2024
+  month: 2
+  online: true
+  certificate: "https://storage.googleapis.com/irpagnossin-public/irpagnossin-site/certificates-of-conclusion/2024-02-lncc-minicurso-big-data.pdf"
+
+- title: "Análise de dados"
+  institution: "Laboratório Nacional de Computação Científica (LNCC)"
+  event: "Programa de verão 2024: Jornada de Ciência de Dados"
+  workload: 6
+  year: 2024
+  month: 2
+  online: true
+  certificate: "https://storage.googleapis.com/irpagnossin-public/irpagnossin-site/certificates-of-conclusion/2024-02-lncc-minicurso-analise-de-dados.pdf"
+
+- title: "Análise de redes sociais"
+  institution: "Laboratório Nacional de Computação Científica (LNCC)"
+  event: "Programa de verão 2024: Jornada de Ciência de Dados"
+  workload: 6
+  year: 2024
+  month: 2
+  online: true
+  certificate: "https://storage.googleapis.com/irpagnossin-public/irpagnossin-site/certificates-of-conclusion/2024-02-lncc-minicurso-analise-de-redes-sociais.pdf"
+
+- title: "Deep Learning"
+  institution: "Laboratório Nacional de Computação Científica (LNCC)"
+  event: "Programa de verão 2024: Jornada de Ciência de Dados"
+  workload: 6
+  year: 2024
+  month: 2
+  online: true
+  certificate: "https://storage.googleapis.com/irpagnossin-public/irpagnossin-site/certificates-of-conclusion/2024-02-lncc-minicurso-deep-learning.pdf"
+
+- title: "Introdução à Computação Quântica"
+  institution: "Laboratório Nacional de Computação Científica (LNCC)"
+  event: "Programa de verão 2024: Escola Supercomputador SDumont"
+  workload: 6
+  year: 2024
+  month: 1
+  online: true
+  certificate: "https://storage.googleapis.com/irpagnossin-public/irpagnossin-site/certificates-of-conclusion/2024-01-lncc-minicurso-computacao-quantica.pdf"
+
+- title: "Data warehouse concepts: from basic to advanced concepts"
+  institution: Udemy
+  workload: 7
+  year: 2024
+  month: 2
+  certificate: "https://ude.my/UC-c2cee0a8-5cc3-49d3-a150-a520bf140303"
+
+- title: "The World of Docker & Kubernetes"
+  institution: FIAP
+  workload: 20
+  year: 2023
+  month: 12
+
+- title: "The complete hands-on introduction to Apache Airflow"
+  institution: Udemy
+  year: 2023
+
+- title: "GCP - Google Cloud Platform concepts 2023"
+  institution: Udemy
+  year: 2023
+
+- title: "Nonlinear Dynamics: Mathematical and Computational Approaches"
+  institution: Santa Fé Institute
+  via: Complexity Explorer
+  year: 2022
+  grade: 94%
+
+- title: "Python 3 na Web com Django"
+  institution: Udemy
+  year: 2021
+  month: 8
+
+- title: "Workshop de análisis predictivo utilizando Azure Machine Learning y PowerBI"
+  institution: Microsoft (Argentina)
+  year: 2016
+
+- title: "R programming"
+  institution: Johns Hopkins
+  via: Coursera
+  year: 2015
+  month: 10
+  grade: 100%
+
+- title: "Machine Learning"
+  institution: Stanford University
+  via: Coursera
+  year: 2015
+  month: 10
+  grade: 95.7%
+
+- title: "Laboratório de programação de processamento de imagens e reconhecimento de padrões utilizando a linguagem Python e biblioteca Numpy"
+  institution: Unicamp
+  via: AdessoWiki
+  year: 2014
+
+- title: "Introduction to Philosophy"
+  institution: "The University of Edinburgh"
+  via: Coursera
+  year: 2014
+  month: abr.
+
+- title: "Algorithms I"
+  institution: Princeton
+  via: Coursera
+  year: 2013
+
+- title: "Artificial Intelligence Planning"
+  institution: The University of Edinburgh
+  via: Coursera
+  year: 2013
+
+- title: "Web development"
+  institution: Udacity
+  year: 2013
+
+- title: "Arita Leader Training II"
+  institution: Arita
+  workload: 35
+  year: 2011
+
+- title: "Capacitação SMART Board"
+  institution: SMART
+  workload: 8
+  year: 2011
+  month: 7 
+
+- title: "Arita Leader Training I"
+  institution: Arita
+  workload: 35
+  year: 2010
+
+- title: "Gerenciamento ágil de projetos de software com Scrum"
+  institution: Caelum
+  workload: 20
+  year: 2010
+
+- title: "Desenvolvimento Web com HTML, CSS e Javascript"
+  institution: Caelum
+  workload: 20
+  year: 2010
+
+- title: "Brigadista para combate ao incêndio"
+  institution: "Centro de Treinamento da Rochácara Ecofire"
+  workload: 12
+  year: 2010
+
+- title: "Curso de voo a vela"
+  institution: "Aeroclube Politécnico de Planadores"
+  workload: 40
+  year: 2009
+  comment: "Início em 2004."
+
+- title: "Moodle na USP"
+  institution: CEPA/CTI
+  year: 2008
+
+- title: Francês
+  institution: "Francês em casa"
+  workload: 50
+  year: 2007
+
+- title: "Curso preparatório para o TOEFL"
+  institution: "Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH) da USP"
+  year: 2006
+
+- title: "Alemão"
+  institution: "Faculdade de Filosofia, Letras e Ciências Humanas"
+  year: 2003
+  comment: "Ouvinte do primeiro semestre do curso de Letras."
+
+- title: "Inglês"
+  institution: "Top English"
+  year: 2002
+
+- title: "Cursinho para o exame vestibular"
+  institution: Etapa
+  year: 1996
+
+- title: "Fundamentos de Astrofísica II — Evolução estelar"
+  institution: "Escola Municipal de Astrofísica Planetário Municipal"
+  workload: 30
+  year: 1993
+
+- title: "Tópicos de Astronomia: movimentos da Terra"
+  institution: "Escola Municipal de Astrofísica Planetário Municipal"
+  workload: 10
+  year: 1993
+
+- title: "Reconhecimento do céu"
+  institution: "Escola Municipal de Astrofísica Planetário Municipal"
+  workload: 15
+  year: 1992
+
+- title: "Desenho artístico"
+  institution: "Liceu de Artes e Ofícios de São Paulo"
+  year: 1992
+
+- title: "Desenho técnico"
+  institution: "Liceu de Artes e Ofícios de São Paulo"
+  year: 1991
+
+- title: "Cursinho para o exame vestibulinho"
+  institution: "Centro Educacional Desafio"
+  year: 1990
+
+- title: "Curso Profissional de Datilografia"
+  institution: "Tecla Escola de Datilografia"
+  year: 1989
+

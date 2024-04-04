@@ -1,0 +1,62 @@
+- title: "Metrologia"
+  institution: Fipen
+  workload: 80
+  year: 2019
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Termodinâmica"
+  institution: Fipen
+  workload: 80
+  year: 2019
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Cálculo I"
+  institution: Fipen
+  workload: 80
+  year: 2018
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Física 2"
+  institution: Fipen
+  workload: 80
+  year: 2018
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Física 1"
+  institution: Fipen
+  workload: 40
+  year: 2017
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Estatística Aplicada"
+  institution: Fipen
+  workload: 80
+  year: 2017
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Geometria Analítica e Álgebra Linear"
+  institution: Fipen
+  workload: 40
+  year: 2017
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Processo de Criação de Objetos de Aprendizagem: usos do Padrão SCORM"
+  institution: Senac/SP
+  workload: 32
+  year: 2013
+  comment: "Disciplina do currículo de pós-graduação lato-sensu em Design Instrucional"
+
+- title: "Criação de objetos de aprendizagem e utilização do padrão SCORM"
+  institution: UNIFEI
+  workload: 4
+  comment: "Oficina criada para o III Colóquio Regional de EAD, Cultura e Produção de Subjetividade"
+  city: "Itajubá (MG)"
+  country: Brasil
+
+- title: "Aula temática com lousa interativa"
+  workload: 1
+  comment: "Produzida para a inauguração oficial do projeto Aulas Interativas, em 6 nov. 2009 na Secretaria de Estado da Educação"
+
+- title: "Uando \LaTeX; pensando \TeX"
+  institution: "Superintendência de Tecnologia da Informação da USP"
+  workload: 24

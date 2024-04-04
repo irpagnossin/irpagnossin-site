@@ -1,0 +1,117 @@
+- title: "Metrologia"
+  institution: Fipen
+  workload: 80
+  year: "2019 (2º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Termodinâmica"
+  institution: Fipen
+  workload: 80
+  year: "2019 (1º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Cálculo I"
+  workload: 80
+  year: "2018 (2º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Física 2"
+  institution: Fipen
+  workload: 80
+  year: "2018 (1º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Física 1"
+  institution: Fipen
+  workload: 40
+  year: "2017 (2º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Estatística Aplicada"
+  workload: 80
+  year: "2017 (2º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Geometria Analítica e Álgebra Linear"
+  institution: Fipen
+  workload: 40
+  year: "2017 (1º semestre)"
+  city: "Osasco (SP)"
+  country: Brasil
+  comment: "Disciplina do curso de graduação em Engenharia de Produção"
+
+- title: "Física I: revisão"
+  course: "Engenharia de Produção"
+  institution: Univesp
+  url: https://youtu.be/Xw14C4YRb-c
+
+- title: "Didática para Ciências e Física - Aula 25 - Recursos tecnológicos educacionais"
+  course: "Licenciatura em Ciências"
+  institution: Univesp
+  url: https://youtu.be/zAqE47iy2H8
+
+- title: "Didática para Ciências e Física - Aula 26 - Simulações no Ensino de Ciências. Recursos tecnológicos
+educacionais"
+  course: "Licenciatura em Ciências"
+  institution: Univesp
+  url: https://youtu.be/5IzpPKCJcFg
+
+- title: "Física 2"
+  course: "Engenharia"
+  institution: "Escola Politécnica da USP"
+  workload:
+  year: "2014 (2º semestre)"
+  camment: "Campus de São Paulo (SP)"
+
+- title: "Física 1"
+  course: "Engenharia"
+  institution: "Escola Politécnica da USP"
+  workload:
+  year: "2014 (1º semestre)"
+  comment: "Campus de Santos (SP)"
+
+- title: "Processo de Criação de Objetos de Aprendizagem: usos do Padrão SCORM"
+  institution: Senac/SP
+  workload: 32
+  year: "ago. 2013"
+  comment: "Disciplina do currículo de pós-graduação lato-sensu em Design Instrucional"
+
+- title: "Processo de Criação de Objetos de Aprendizagem: usos do Padrão SCORM"
+  institution: Senac/SP
+  workload: 32
+  year: "mar. 2013"
+  comment: "Disciplina do currículo de pós-graduação lato-sensu em Design Instrucional"
+
+- title: "Criação de objetos de aprendizagem e utilização do padrão SCORM"
+  institution: UNIFEI
+  workload: 4
+  comment: "Oficina criada para o III Colóquio Regional de EAD, Cultura e Produção de Subjetividade"
+  city: "Itajubá (MG)"
+  country: Brasil
+
+- title: "Uando \LaTeX; pensando \TeX"
+  institution: "Superintendência de Tecnologia da Informação da USP"
+  workload: 24
+  year: 2009
+
+- title: "Uando \LaTeX; pensando \TeX"
+  institution: "Superintendência de Tecnologia da Informação da USP"
+  workload: 24
+  year: 2008
+
+- title: "Uando \LaTeX; pensando \TeX"
+  institution: "Centro de Ensino e Pesquisa Aplicada (CEPA)"
+  workload: 15
+  year: 2009

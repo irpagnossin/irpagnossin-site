@@ -1,0 +1,39 @@
+- course: "Especialização em Computação Aplicada à Educação"
+  institution: USP
+  school: ICMC
+  year_start: 2018
+  year_end: 2020
+  text: "Pós-graduação lato sensu em Computação Aplicada à Educação envolvendo os temas: inteligência artificial, ambientes imersivos, aprendizagem colaborativa, computação afetiva e design science research. Como trabalho de conclusão apresentei uma análise sobre a aprendizagem de Ciência de Dados, defendendo a tese de que uma abordagem baseada em competências é mais eficiente. O resultado foi positivo. Contudo, devido a problemas identificados na coleta desses dados, julguei melhor não publicar. A análise e artigo estão disponíveis <a href=\"https://github.com/irpagnossin/tcc-cae-icmc-usp\">aqui</a>."
+
+- course: "Doutorado em Ciências (Física)"
+  institution: USP
+  school: IF
+  department: "Física dos Materiais e Mecânica"
+  year_start: 2004
+  year_end: 2007
+
+- course: "Mestrado em Ciências (Física)"
+  institution: USP
+  school: IF
+  department: "Física dos Materiais e Mecânica"
+  year_start: 2002
+  year_end: 2004
+
+- course: "Bacharelado em Física Básica"
+  institution: USP
+  school: IF
+  year_start: 1997
+  year_end: 2002
+
+- course: "Iniciação científica"
+  institution: USP
+  school: IF
+  department: "Laboratório de Física de Plasmas"
+  year_start: 1997
+  year_end: 1998
+
+- course: "Auxiliar técnico em Eletrônica"
+  institution: "Liceu de Artes e Ofícios de São Paulo"
+  year_start: 1992
+  year_end: 1995
+

@@ -1,0 +1,27 @@
+- title: Trabalho do ICMC
+  type: TCC
+  institution: USP
+  school: ICMC
+  year: 2020
+  urls:
+    - "https://github.com/irpagnossin/tcc-cae-icmc-usp"
+
+- title: "Pontos-quânticos: fotodetectores, localização-fraca e estados de borda contra-rotativos"
+  type: "Tese de doutorado"
+  institution: USP
+  school: IF
+  department: "Física dos Materiais e Mecânica"
+  year: 2008
+  urls:
+    - Banco de teses
+    - "https://github.com/irpagnossin/PhD"
+
+- title: "Propriedades de transporte elétrico de gases bidimensionais de elétrons nas proximidades de pontos-quânticos de InAs"
+  type: "Dissertação de Mestrado"
+  institution: USP
+  school: IF
+  department: "Física dos Materiais e Mecânica"
+  year: 2004
+  urls:
+    - Banco de teses
+    - "https://github.com/irpagnossin/MSc"
