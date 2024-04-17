@@ -5,6 +5,15 @@ publishdate: 2023-11-10T01:21:00-03:00
 lastmod: 2024-01-10T15:28:00-03:00
 ---
 
-Um pouco sobre mim
+Um pouco sobre mim.
 
+<<<<<<< Updated upstream
 Meu CV [aqui](/cv)
+=======
+Meu CV [aqui](/cv)
+
+{{< cv >}}
+
+obs.: Cagnotto & Pagnossin Ltda é minha empresa.
+
+>>>>>>> Stashed changes
