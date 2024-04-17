@@ -26,6 +26,10 @@ na Playax, USP, Digital Pages, Digital House e Proz Educação.
 
 Clique nos itens abaixo para ver mais detalhes.
 
+{{< details "Proprietário @ Cagnotto & Pagnossin Ltda" >}}
+Empresa que uso para prestar serviços.
+{{< /details >}}
+
 {{< details "Líder de Engenharia de Ciência de dados @ [Proz Educação](https://prozeducacao.com.br/)" >}}
 
 Inaugurei e desenvolvi a área de dados, desde a definição das premissas estratégicas e decisão pelo provedor de nuvem, até a implementação, padronização e otimização técnica e monetária do pipeline de dados com CI/CD. Contratei e treinei toda a equipe, inclusive em Scrum, metodologia que optei para desenvolver os projetos da área, visando a agilidade, descentralização e autonomia da equipe. Defini e implantei também uma metodologia derivada da [RICE](https://rockcontent.com/br/blog/matriz-rice/), com características colaborativas, para priorizar projetos e dar visilidade deles, além de dar ingerência pelas áreas de negócio envolvidas. Participei ativamente de interações com outras áreas de negócio, estabelecendo parcerias internas produtivas; também apoiei o desenvolvimento de projetos de inovação, seja com orientações (devido à minha extensa experiência na área educacional), seja com a criação de microsserviços e API. Em mais de uma ocasião fui muito bem avaliado por colegas e áreas parceiras; e a área tornou-se modelo de cooperação inter-áreas.
